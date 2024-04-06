@@ -1,6 +1,9 @@
 - [ ] Proper documentation would be nice
 - [ ] Forbidden functions
 
+- [ ] Quality of life
+    - [ ] Install script
+
 - [ ] Improve cli
     - [ ] Skip tests
     - [ ] Only do specific tests
