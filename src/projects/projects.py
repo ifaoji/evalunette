@@ -1,6 +1,6 @@
 import pathlib
 
-from src.projects.libft.project import Libft
+from src.projects.libft import Libft
 
 projects = [Libft]
 
